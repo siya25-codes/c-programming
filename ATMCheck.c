@@ -1,3 +1,9 @@
+
+// Name: Namrata Ankush Surwase
+// Branch: EXTC(R)
+// PRN:2503033111372L003
+// Batch:A
+
 #include <stdio.h>
 
 int main()
